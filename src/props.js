@@ -182,7 +182,7 @@ export const defaultProps = {
       forceDASH: false,
       forceFLV: false,
       hlsOptions: {},
-      hlsVersion: '1.1.4',
+      hlsVersion: '1.5.11',
       dashVersion: '3.1.3',
       flvVersion: '1.5.0',
       forceDisableHls: false
